@@ -1,0 +1,37 @@
+### YamlMime:Landing
+title: Microsoft Partner-REST API
+summary: De Microsoft Partner-REST API is de opvolger van de Microsoft Partnercentrum-API. Met deze API kunt u programmatisch toegang krijgen tot de mogelijkheden van Partnercentrum.
+metadata:
+  title: Ontwikkelaarsdocumentatie voor Partnercentrum
+  description: De Microsoft Partner-REST API is de opvolger van de Microsoft Partnercentrum-API. Met deze API kunt u programmatisch toegang krijgen tot de mogelijkheden van Partnercentrum.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-sdk
+  ms.topic: landing-page
+  author: jasonwhowell
+  ms.author: jasonh
+  ms.date: 04/09/2020
+  ms.openlocfilehash: 163c778485f25318e1263a2064ded44fe617f8af
+  ms.sourcegitcommit: 3c165938f544ff226cbe11ca21ed5aa00448d9b4
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 04/23/2020
+  ms.locfileid: "97766480"
+landingContent:
+- title: Microsoft Partner API-documentatie en -informatiebronnen
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Aan de slag met de Partner-REST API
+      url: develop/get-started.md
+    - text: Scenario's die worden ondersteund door de Partner-REST API
+      url: develop/scenarios.md
+  - linkListType: reference
+    links:
+    - text: Partner-REST API
+      url: develop/rest-api-reference.md
+  - linkListType: how-to-guide
+    links:
+    - text: Programmatisch beheren van verwijzingen
+      url: develop/referrals.md
+    - text: CSP-prijzen programmatisch ophalen
+      url: develop/pricing.md
