@@ -1,0 +1,45 @@
+- name: Ontwikkelaarsdocumentatie voor partners
+  href: index.yml
+  items:
+    - name: Overzichten en scenario's
+      href: develop/index.md
+      items:
+        - name: Aan de slag
+          href: develop/get-started.md
+          items:
+            - name: Verificatie van Partner-API
+              href: develop/api-authentication.md
+        - name: Scenario's
+          href: develop/scenarios.md
+          items:
+            - name: Verwijzingen
+              href: develop/referrals.md
+              items:
+                - name: De lijst met leads en verkoopkansen ophalen
+                  href: develop/get-a-list-of-referrals.md
+                - name: Een lead of verkoopkans ophalen op basis van id
+                  href: develop/get-a-referral-by-id.md
+                - name: Een lead of verkoopkans bijwerken
+                  href: develop/patch-a-referral.md
+                - name: Een nieuwe verkoopkans maken
+                  href: develop/create-a-referral.md
+                - name: Verwijzingsbronnen
+                  href: develop/referral-resources.md
+            - name: Prijzen
+              href: develop/pricing.md
+              items:
+                - name: Een prijslijst ophalen
+                  href: develop/get-a-price-sheet.md
+                - name: Wisselkoersen ophalen
+                  href: develop/get-foreign-exchange-rates.md
+    - name: Naslaginformatie over REST-API
+      href: develop/rest-api-reference.md
+      items:
+        - name: REST-eindpunt-URL's
+          href: develop/rest-urls.md
+        - name: REST-headers
+          href: develop/headers.md
+        - name: REST-foutcodes
+          href: develop/error-codes.md
+        - name: REST-bronnen
+          href: develop/rest-resources.md
