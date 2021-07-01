@@ -30,6 +30,8 @@
               items:
                 - name: Een prijslijst ophalen
                   href: develop/get-a-price-sheet.md
+                - name: Een aanbiedingsmatrix krijgen
+                  href: develop/get-an-offer-matrix.md
                 - name: Wisselkoersen ophalen
                   href: develop/get-foreign-exchange-rates.md
     - name: Naslaginformatie over REST-API
